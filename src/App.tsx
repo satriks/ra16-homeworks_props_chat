@@ -1,9 +1,7 @@
 
-import React from 'react' 
-
 import './App.css'
 import MessageHistory from './components/MessageHistory/MessageHistory';
-import message from '../data/data.js'
+import message from './data/data.js'
 
 function App(){
 
